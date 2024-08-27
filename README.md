@@ -39,4 +39,5 @@ Click the "Translate" button. The translated text will appear in the "Translated
 Handling Errors:
 
 If no text is entered, an error message will prompt you to enter some text.
-If there's an issue with translation, an error message will display the problem.
+If there's an issue with translation, an error message will display the problem.![Снимок экрана 2024-08-27 201212](https://github.com/user-attachments/assets/f2fc7b94-7c93-41f7-9a11-4c16b7ef5777)
+
